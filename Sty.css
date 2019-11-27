@@ -1,0 +1,26 @@
+h1{
+color: black;
+lenght: 0;
+padding: 1;
+font-size: ;
+
+}
+p{
+margin: 0;
+}
+.float-img{
+float: right;
+clear: right;
+margin-left: 10px;
+margin-bottom: 5px;
+padding: 2px
+border: strong;
+display: inline;
+}
+.me{
+display: inline-block;
+justify-content: space-around;
+}
+span{
+margin-left:5em
+}
